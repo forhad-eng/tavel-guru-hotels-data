@@ -1,0 +1,86 @@
+[
+    {
+        "name": "Ocean Paradise",
+        "image": "https://i.ibb.co/cx890zH/heritage-parkview-guestroom-min.jpg",
+        "price": 4000,
+        "rating": 4.5,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel turpis et dolor gravida luctus quis sed nibh. Vestibulum suscipit fermentum nisl."
+    },
+    {
+        "name": "Hotel Sea Uttara",
+        "image": "https://i.ibb.co/xMbFDpq/modern-studio-apartment-design-with-bedroom-living-space-min-1.jpg",
+        "price": 4500,
+        "rating": 3.8,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel turpis et dolor gravida luctus quis sed nibh. Vestibulum suscipit fermentum nisl."
+    },
+    {
+        "name": "Hotel Vista Bay",
+        "image": "https://i.ibb.co/YXjFkFY/eko-gardens-min.jpg",
+        "price": 3900,
+        "rating": 3.6,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel turpis et dolor gravida luctus quis sed nibh. Vestibulum suscipit fermentum nisl."
+    },
+    {
+        "name": "Hotel Sky Park",
+        "image": "https://i.ibb.co/qgRD6vG/deluxe-twin-1366x768-fp-mm-fpoff-0-0-min.jpg",
+        "price": 4500,
+        "rating": 4.0,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel turpis et dolor gravida luctus quis sed nibh. Vestibulum suscipit fermentum nisl."
+    },
+    {
+        "name": "Hotel Mohsin Plaza",
+        "image": "https://i.ibb.co/DKX62FF/index-min.jpg",
+        "price": 3000,
+        "rating": 3.0,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel turpis et dolor gravida luctus quis sed nibh. Vestibulum suscipit fermentum nisl."
+    },
+    {
+        "name": "Sreemangal Inn Hotel",
+        "image": "https://i.ibb.co/Q9ytpvT/index1-min.jpg",
+        "price": 3600,
+        "rating": 3.9,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel turpis et dolor gravida luctus quis sed nibh. Vestibulum suscipit fermentum nisl."
+    },
+    {
+        "name": "Parkrity Village Hotel",
+        "image": "https://i.ibb.co/xMbFDpq/modern-studio-apartment-design-with-bedroom-living-space-min-1.jpg",
+        "price": 2800,
+        "rating": 3.8,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel turpis et dolor gravida luctus quis sed nibh. Vestibulum suscipit fermentum nisl."
+    },
+    {
+        "name": "Suranjana Resort",
+        "image": "https://i.ibb.co/4j16mt6/Rectangle-28-min.png",
+        "price": 3000,
+        "rating": 3.8,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel turpis et dolor gravida luctus quis sed nibh. Vestibulum suscipit fermentum nisl."
+    },
+    {
+        "name": "Larica Inn - Sundarbar",
+        "image": "https://i.ibb.co/m9KD39G/Rectangle-27-min.png",
+        "price": 3500,
+        "rating": 4.2,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel turpis et dolor gravida luctus quis sed nibh. Vestibulum suscipit fermentum nisl."
+    },
+    {
+        "name": "Jhumghor Resort",
+        "image": "https://i.ibb.co/3RR59N5/Rectangle-26-min.png",
+        "price": 4000,
+        "rating": 4.1,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel turpis et dolor gravida luctus quis sed nibh. Vestibulum suscipit fermentum nisl."
+    },
+    {
+        "name": "Royal Sajek",
+        "image": "https://i.ibb.co/m9XJ97S/modern-luxury-bedroom-suite-bathroom-min-1.jpg",
+        "price": 6000,
+        "rating": 5.5,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel turpis et dolor gravida luctus quis sed nibh. Vestibulum suscipit fermentum nisl."
+    },
+    {
+        "name": "Mono Adam Resort",
+        "image": "https://i.ibb.co/yfy636T/elegant-hotel-room-with-big-bed-min.jpg",
+        "price": 4500,
+        "rating": 4.3,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel turpis et dolor gravida luctus quis sed nibh. Vestibulum suscipit fermentum nisl."
+    }
+]
